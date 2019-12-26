@@ -1,3 +1,2 @@
-# Wisdom Base 1223
-
-A history board for knowledge growing, share, and discuss.
+# we fix 课题 here
+contain source code and logs for 课题
